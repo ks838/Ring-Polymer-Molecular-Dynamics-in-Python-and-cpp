@@ -20,7 +20,7 @@
                we just write the codes as the the paper Ceriotti2010 wrote. FFT could be used in fact. I have made 
                comments in corresponding places.
 
-           4. RPMD and CMD have been implemented in AMBER.
+            4. RPMD and CMD have been implemented in AMBER.
 
 
 @Notes On Physics:
