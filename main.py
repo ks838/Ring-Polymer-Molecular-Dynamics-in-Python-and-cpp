@@ -2,8 +2,8 @@
  @Author:	Kai Song, ks838 _at_ cam.ac.uk
 
  @Notes :   1. In this edition, we sample from the normal modes 
- 			space directly, without using the coordinate 
- 			transformation too many times (as presented in Ceriotti2010).
+ 			   space directly, without using the coordinate 
+ 			   transformation too many times (as presented in Ceriotti2010).
 
 @Refs   :   1. Craig and David Manolopoulos, J. Chem. Phys. 121, 22  2004
 		    2. Ceriotti et al. J. Chem. Phys. 133, 124104  2010 
@@ -18,7 +18,7 @@ from init_condations import *
 from potential import *
 from matrix_rpmd import *
 
-
+print(__doc__)
 # --------------- set the correlation functions :A & B ------------------
 '''
  The time correlation functions (TCF) <A(0)B(t)> is a most 
